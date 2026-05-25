@@ -1,6 +1,9 @@
 # CODEALPHA_TASK2
 Frontend Development Internship Task at CodeAlpha
 # Basic Calculator
+## Project Screenshot
+
+![Calculator Output](screenshot output.png)
 
 A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
